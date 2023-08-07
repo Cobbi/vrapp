@@ -3,3 +3,6 @@
 export default function handler(req, res) {
   res.status(200).json({ name: 'John Doe' })
 }
+
+
+// https://localhost:3000/api/users
